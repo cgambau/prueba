@@ -11,5 +11,8 @@
   },
   "dependencies": {
     "snowpack": "^3.8.6"
+  },
+  "devDependencies": {
+    "yarn": "^1.22.11"
   }
 }
